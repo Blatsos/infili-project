@@ -1,0 +1,9 @@
+.section {
+  /* margin: 1rem auto; */
+  width: 90%;
+  max-width: 40rem;
+  text-align: left;
+  background-color: rgb(66, 132, 194);
+  padding: 2rem;
+  border-radius: 12px;
+}
